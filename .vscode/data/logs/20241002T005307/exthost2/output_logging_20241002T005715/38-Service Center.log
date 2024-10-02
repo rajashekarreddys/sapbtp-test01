@@ -1,0 +1,30 @@
+{
+  "label": "service-center",
+  "level": "warn",
+  "message": "Activating the 'vscode-wing-service-center' extension...",
+  "time": "2024-10-02T01:02:45.148Z"
+}
+{
+  "label": "service-center",
+  "level": "warn",
+  "message": "An action has been added for the SAP Fiori project type.",
+  "time": "2024-10-02T01:02:45.157Z"
+}
+{
+  "label": "service-center",
+  "level": "warn",
+  "message": "An action has been added for the SAP Fiori project type.",
+  "time": "2024-10-02T01:02:45.157Z"
+}
+{
+  "label": "service-center",
+  "level": "warn",
+  "message": "An action has been added for the CAP project type.",
+  "time": "2024-10-02T01:02:45.157Z"
+}
+{
+  "label": "service-center",
+  "level": "warn",
+  "message": "The 'vscode-wing-service-center' extension is active.",
+  "time": "2024-10-02T01:02:45.723Z"
+}

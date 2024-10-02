@@ -63,7 +63,7 @@
     "breadcrumbs.enabled": false,
     "debug.openDebug": "neverOpen",
     "Storyboard.openStoryboardAutomatically": true,
-    "workbench.colorTheme": "SAP Fiori Evening Horizon",
+    "workbench.colorTheme": "Visual Studio Light",
     "ApplicationWizard.Workspace": "Open the project in a stand-alone folder",
     "files.autoSave": "afterDelay",
     "extensions.ignoreRecommendations": true,
