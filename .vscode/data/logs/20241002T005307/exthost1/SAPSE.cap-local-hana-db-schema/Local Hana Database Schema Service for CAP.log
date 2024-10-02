@@ -1,0 +1,30 @@
+{
+  "label": "Local Hana Database Schema Service for CAP",
+  "level": "info",
+  "message": "Start Logging in Log Level: <info>",
+  "time": "2024-10-02T00:53:38.631Z"
+}
+{
+  "label": "Local Hana Database Schema Service for CAP",
+  "level": "info",
+  "message": "Full Logs can be found in the </home/user/.vscode/data/logs/20241002T005307/exthost1/SAPSE.cap-local-hana-db-schema> folder",
+  "time": "2024-10-02T00:53:38.632Z"
+}
+{
+  "label": "Local Hana Database Schema Service for CAP",
+  "level": "info",
+  "message": "The extension 'SAPSE.webide-hdi-feature-vscode' is required to be installed",
+  "time": "2024-10-02T00:53:38.633Z"
+}
+{
+  "label": "Local Hana Database Schema Service for CAP",
+  "level": "info",
+  "message": "deactivate is called",
+  "time": "2024-10-02T00:57:09.537Z"
+}
+{
+  "label": "Local Hana Database Schema Service for CAP",
+  "level": "info",
+  "message": "Local Hana Database Schema Service already stopped",
+  "time": "2024-10-02T00:57:09.537Z"
+}

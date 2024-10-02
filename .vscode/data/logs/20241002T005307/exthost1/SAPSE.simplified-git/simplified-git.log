@@ -1,0 +1,270 @@
+{
+  "label": "simplified-git",
+  "level": "info",
+  "message": "Logger initialized for simplified-git",
+  "time": "2024-10-02T00:55:19.461Z"
+}
+{
+  "label": "simplified-git",
+  "level": "info",
+  "message": "Start logging with log level: debug",
+  "time": "2024-10-02T00:55:19.461Z"
+}
+{
+  "label": "simplified-git",
+  "level": "info",
+  "message": "Full logs can be found in the folder: /home/user/.vscode/data/logs/20241002T005307/exthost1/SAPSE.simplified-git",
+  "time": "2024-10-02T00:55:19.462Z"
+}
+{
+  "label": "simplified-git",
+  "level": "info",
+  "message": "simplified-git extension activated",
+  "time": "2024-10-02T00:55:19.462Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler ys ...",
+  "time": "2024-10-02T00:55:19.522Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered ys successfully",
+  "time": "2024-10-02T00:55:19.522Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler fs ...",
+  "time": "2024-10-02T00:55:19.522Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered fs successfully",
+  "time": "2024-10-02T00:55:19.522Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler ls ...",
+  "time": "2024-10-02T00:55:19.523Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered ls successfully",
+  "time": "2024-10-02T00:55:19.523Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler ps ...",
+  "time": "2024-10-02T00:55:19.523Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered ps successfully",
+  "time": "2024-10-02T00:55:19.523Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler gs ...",
+  "time": "2024-10-02T00:55:19.523Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered gs successfully",
+  "time": "2024-10-02T00:55:19.523Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler ms ...",
+  "time": "2024-10-02T00:55:19.524Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered ms successfully",
+  "time": "2024-10-02T00:55:19.524Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler hs ...",
+  "time": "2024-10-02T00:55:19.524Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered hs successfully",
+  "time": "2024-10-02T00:55:19.524Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler _s ...",
+  "time": "2024-10-02T00:55:19.524Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered _s successfully",
+  "time": "2024-10-02T00:55:19.524Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler os ...",
+  "time": "2024-10-02T00:55:19.524Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered os successfully",
+  "time": "2024-10-02T00:55:19.524Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler cs ...",
+  "time": "2024-10-02T00:55:19.524Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered cs successfully",
+  "time": "2024-10-02T00:55:19.524Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler ds ...",
+  "time": "2024-10-02T00:55:19.524Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered ds successfully",
+  "time": "2024-10-02T00:55:19.524Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler us ...",
+  "time": "2024-10-02T00:55:19.525Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered us successfully",
+  "time": "2024-10-02T00:55:19.525Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler Dn ...",
+  "time": "2024-10-02T00:55:19.525Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered Dn successfully",
+  "time": "2024-10-02T00:55:19.525Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler vs ...",
+  "time": "2024-10-02T00:55:19.525Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered vs successfully",
+  "time": "2024-10-02T00:55:19.525Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler Ss ...",
+  "time": "2024-10-02T00:55:19.525Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered Ss successfully",
+  "time": "2024-10-02T00:55:19.525Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler qn ...",
+  "time": "2024-10-02T00:55:19.525Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered qn successfully",
+  "time": "2024-10-02T00:55:19.525Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler ws ...",
+  "time": "2024-10-02T00:55:19.525Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered ws successfully",
+  "time": "2024-10-02T00:55:19.525Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler bs ...",
+  "time": "2024-10-02T00:55:19.525Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered bs successfully",
+  "time": "2024-10-02T00:55:19.525Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registering action handler as ...",
+  "time": "2024-10-02T00:55:19.526Z"
+}
+{
+  "label": "simplified-git.ActionProxy",
+  "level": "info",
+  "message": "Registered as successfully",
+  "time": "2024-10-02T00:55:19.526Z"
+}
+{
+  "label": "simplified-git.InitActionHandler",
+  "level": "debug",
+  "message": "Processing Init Action...",
+  "time": "2024-10-02T00:55:20.148Z"
+}
+{
+  "label": "simplified-git",
+  "level": "debug",
+  "message": "Workspace configuration changed, we don't have any subscribers yet!",
+  "time": "2024-10-02T00:55:35.872Z"
+}
+{
+  "label": "simplified-git",
+  "level": "info",
+  "message": "simplified-git extension de-activated",
+  "time": "2024-10-02T00:57:09.551Z"
+}
